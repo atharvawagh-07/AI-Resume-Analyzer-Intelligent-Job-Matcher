@@ -97,3 +97,29 @@ docker-compose up --build
 # Run backend pytest suite
 pytest tests/
 ```
+## 👨‍💻 Developer
+Atharva Wagh
+
+AI/ML & Software Development Student
+
+GitHub:
+https://github.com/atharvawagh-07
+
+## ⭐ Support
+
+If you find this project useful:
+
+⭐ Star the repository
+🐛 Report bugs
+💡 Suggest features
+🔀 Submit pull requests
+
+## 🚀 Project Status
+
+🟢 Active Development
+
+This project is continuously evolving toward a more comprehensive AI-powered career intelligence platform.
+
+## 💡 Project Philosophy
+
+Don't just tell candidates whether their resume matches a job. Tell them why it matches, what they're missing, and what they should do next.
